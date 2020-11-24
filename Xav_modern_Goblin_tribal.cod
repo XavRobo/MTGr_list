@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Xav_modern_Goblin_tribal</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Bloodmark Mentor"/>
+        <card number="4" name="Castle Embereth"/>
+        <card number="4" name="Foundry Street Denizen"/>
+        <card number="4" name="Goblin Bushwhacker"/>
+        <card number="4" name="Goblin Chieftain"/>
+        <card number="4" name="Goblin Grenade"/>
+        <card number="4" name="Goblin Piledriver"/>
+        <card number="3" name="Krenko, Mob Boss"/>
+        <card number="2" name="Krenko, Tin Street Kingpin"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="16" name="Mountain"/>
+        <card number="3" name="Shared Animosity"/>
+        <card number="4" name="Skirk Prospector"/>
+        <card number="2" name="Warren Instigator"/>
+    </zone>
+</cockatrice_deck>
