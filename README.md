@@ -2,11 +2,11 @@
 Decklist MTGrrrrnoble
 
 ## Participants:
-Ext: external
-Xav: Xav_magic
+Ext: external \\
+Xav: Xav_magic \\
 
 ## Formats:
-Peasant
-Modern
+Peasant \\
+Modern \\
 EDH
 
