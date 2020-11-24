@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Xenagos Trample</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" name="Forest"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="3" name="Hungering Hydra"/>
+        <card number="4" name="Generator Servant"/>
+        <card number="4" name="Savageborn Hydra"/>
+        <card number="3" name="Skarrg Guildmage"/>
+        <card number="4" name="Archetype of Aggression"/>
+        <card number="3" name="Kazuul's Fury"/>
+        <card number="2" name="Scourge of Skola Vale"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="2" name="Xenagos, the Reveler"/>
+        <card number="4" name="Heroes' Bane"/>
+        <card number="2" name="Hunter's Prowess"/>
+        <card number="2" name="Overwhelming Stampede"/>
+        <card number="1" name="Xenagos, God of Revels"/>
+        <card number="3" name="Ruric Thar, the Unbowed"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Inf Token</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Anticipate"/>
+        <card number="4" name="Arcane Adaptation"/>
+        <card number="2" name="Divination"/>
+        <card number="3" name="Evolving Wilds"/>
+        <card number="10" name="Forest"/>
+        <card number="9" name="Island"/>
+        <card number="4" name="Llanowar Visionary"/>
+        <card number="3" name="Omenspeaker"/>
+        <card number="4" name="Opt"/>
+        <card number="2" name="Radiant Fountain"/>
+        <card number="3" name="Ranger's Guile"/>
+        <card number="4" name="Turntimber Ranger"/>
+        <card number="3" name="Wall of Frost"/>
+        <card number="3" name="Wall of Mulch"/>
+        <card number="3" name="Wall of Vines"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Dissipate"/>
+        <card number="3" name="Negate"/>
+        <card number="2" name="Netcaster Spider"/>
+        <card number="2" name="Plummet"/>
+        <card number="2" name="Reclamation Sage"/>
+    </zone>
+</cockatrice_deck>

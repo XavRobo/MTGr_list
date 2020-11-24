@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Peasant Crab</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Aegis Turtle"/>
+        <card number="4" name="Crystacean"/>
+        <card number="5" name="Forest"/>
+        <card number="2" name="High Alert"/>
+        <card number="3" name="Huatli, the Sun's Heart"/>
+        <card number="12" name="Island"/>
+        <card number="4" name="Miscalculation"/>
+        <card number="4" name="Negate"/>
+        <card number="4" name="Opt"/>
+        <card number="6" name="Plains"/>
+        <card number="4" name="Shambleshark"/>
+        <card number="4" name="Solid Footing"/>
+        <card number="4" name="Wishcoin Crab"/>
+    </zone>
+</cockatrice_deck>

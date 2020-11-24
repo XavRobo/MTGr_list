@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Izzet ensoul</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Ensoul Artifact"/>
+        <card number="3" name="Goblin Kaboomist"/>
+        <card number="2" name="Hammerhand"/>
+        <card number="2" name="Hydrosurge"/>
+        <card number="2" name="Illusory Angel"/>
+        <card number="3" name="Inferno Fist"/>
+        <card number="7" name="Island"/>
+        <card number="4" name="Lightning Stormkin"/>
+        <card number="15" name="Mountain"/>
+        <card number="4" name="Ornithopter"/>
+        <card number="2" name="Saheeli, Sublime Artificer"/>
+        <card number="2" name="Scrapyard Mongrel"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="4" name="Shrapnel Blast"/>
+        <card number="3" name="Snare Thopter"/>
+        <card number="2" name="Traveler's Amulet"/>
+    </zone>
+</cockatrice_deck>
