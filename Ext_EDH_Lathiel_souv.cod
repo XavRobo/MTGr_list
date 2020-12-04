@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Ajani, the Greathearted"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Angelic Chorus"/>
+        <card number="1" name="Angelic Skirmisher"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Armadillo Cloak"/>
+        <card number="1" name="Attended Healer"/>
+        <card number="1" name="Beacon of Immortality"/>
+        <card number="1" name="Camaraderie"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Celestial Force"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Conclave Mentor"/>
+        <card number="1" name="Cryptic Trilobite"/>
+        <card number="1" name="Crystalline Crawler"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Essence Warden"/>
+        <card number="1" name="Etched Oracle"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Evra, Halcyon Witness"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Felidar Sovereign"/>
+        <card number="1" name="Fertilid"/>
+        <card number="14" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Glimmerpost"/>
+        <card number="1" name="Hamza, Guardian of Arashin"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Heliod, Sun-Crowned"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Lifegift"/>
+        <card number="1" name="Light of Promise"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Loyal Guardian"/>
+        <card number="1" name="Loyal Unicorn"/>
+        <card number="1" name="Mindless Automaton"/>
+        <card number="1" name="Mycoid Shepherd"/>
+        <card number="1" name="Myriad Construct"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Pentavus"/>
+        <card number="14" name="Plains"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Rhox Faithmender"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul Warden"/>
+        <card number="1" name="Soul's Attendant"/>
+        <card number="1" name="Soul's Grace"/>
+        <card number="1" name="Spike Feeder"/>
+        <card number="1" name="Spincrusher"/>
+        <card number="1" name="Stirring Wildwood"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Triskelavus"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Workhorse"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Lathiel, the Bounteous Dawn"/>
+    </zone>
+</cockatrice_deck>
